@@ -125,15 +125,15 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
      inkscape:cx="247.50721"
-     inkscape:cy="210.33537"
+     inkscape:cy="67.478227"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="false"
      units="cm"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1136"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1">
@@ -158,7 +158,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -200,7 +200,7 @@
          sodipodi:role="line">für Bürger.</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:21.25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.66323906;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-weight:normal;font-size:21.25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.66323906;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="22.142857"
        y="31.55228"
        id="text4381"
@@ -209,17 +209,17 @@
          x="22.142857"
          y="31.55228"
          id="tspan4385"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.25px;font-family:Waree;-inkscape-font-specification:Waree;fill:#000000;fill-opacity:0.66323906;">Hotspot </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.25px;font-family:Waree;-inkscape-font-specification:Waree;fill:#000000;fill-opacity:0.66323906">WLAN </tspan><tspan
          sodipodi:role="line"
          x="22.142857"
          y="58.11478"
          id="tspan4389"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.25px;font-family:Waree;-inkscape-font-specification:Waree;fill:#000000;fill-opacity:0.66323906;">von Bürgern </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.25px;font-family:Waree;-inkscape-font-specification:Waree;fill:#000000;fill-opacity:0.66323906">von Bürgern </tspan><tspan
          sodipodi:role="line"
          x="22.142857"
          y="84.677277"
          id="tspan4391"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.25px;font-family:Waree;-inkscape-font-specification:Waree;fill:#000000;fill-opacity:0.66323906;">für Bürger.</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.25px;font-family:Waree;-inkscape-font-specification:Waree;fill:#000000;fill-opacity:0.66323906">für Bürger.</tspan></text>
   </g>
   <g
      inkscape:label="Ebene 1"
@@ -236,20 +236,20 @@
        id="text4236"
        y="457.98083"
        x="371.42856"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:99.00000095%;font-family:Waree;-inkscape-font-specification:Waree;letter-spacing:0px;word-spacing:0px;display:inline;fill:#010103;fill-opacity:0.67058825;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter4352);"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:99.00000095%;font-family:Waree;-inkscape-font-specification:Waree;letter-spacing:0px;word-spacing:0px;display:inline;fill:#010103;fill-opacity:0.67058824;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter4352)"
        xml:space="preserve"
        transform="matrix(1.4233639,0,0,1.4233639,-174.65665,-202.26404)"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:99.00000095%;font-family:Waree;-inkscape-font-specification:Waree;fill:#010103;fill-opacity:0.67058825;stroke:none;stroke-opacity:1;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:99.00000095%;font-family:Waree;-inkscape-font-specification:Waree;fill:#010103;fill-opacity:0.67058824;stroke:none;stroke-opacity:1"
          y="457.98083"
          x="371.42856"
          id="tspan4238"
          sodipodi:role="line">Weil </tspan><tspan
          id="tspan4240"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:99.00000095%;font-family:Waree;-inkscape-font-specification:Waree;fill:#010103;fill-opacity:0.67058825;stroke:none;stroke-opacity:1;"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:99.00000095%;font-family:Waree;-inkscape-font-specification:Waree;fill:#010103;fill-opacity:0.67058824;stroke:none;stroke-opacity:1"
          y="472.83084"
          x="371.42856"
-         sodipodi:role="line">du bestimmst</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:99.00000095%;font-family:Waree;-inkscape-font-specification:Waree;fill:#010103;fill-opacity:0.67058825;stroke:none;stroke-opacity:1;"
+         sodipodi:role="line">Du bestimmst</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:99.00000095%;font-family:Waree;-inkscape-font-specification:Waree;fill:#010103;fill-opacity:0.67058824;stroke:none;stroke-opacity:1"
          id="tspan4242"
          y="487.68085"
          x="371.42856"
@@ -257,22 +257,22 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.35045815px;line-height:99.00000095%;font-family:Waree;-inkscape-font-specification:Waree;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="353.7688"
+       x="354.7688"
        y="449.56604"
        id="text4222"
        sodipodi:linespacing="99.000001%"><tspan
          sodipodi:role="line"
          id="tspan4224"
-         x="353.7688"
+         x="354.7688"
          y="449.56604"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.35045815px;line-height:99.00000095%;font-family:Waree;-inkscape-font-specification:Waree;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1">Weil </tspan><tspan
          sodipodi:role="line"
-         x="353.7688"
+         x="354.7688"
          y="470.703"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.35045815px;line-height:99.00000095%;font-family:Waree;-inkscape-font-specification:Waree;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
-         id="tspan4234">du bestimmst</tspan><tspan
+         id="tspan4234">Du bestimmst</tspan><tspan
          sodipodi:role="line"
-         x="353.7688"
+         x="354.7688"
          y="491.83994"
          id="tspan4226"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.35045815px;line-height:99.00000095%;font-family:Waree;-inkscape-font-specification:Waree;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1">wo es funkt.</tspan></text>
@@ -457,5 +457,16 @@
          d="m 294.51975,256.80233 0.0571,1.08712"
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.28171599px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.25px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="366.42856"
+       y="469.40942"
+       id="text3402"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3404"
+         x="366.42856"
+         y="469.40942" /></text>
   </g>
 </svg>
