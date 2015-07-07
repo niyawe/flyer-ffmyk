@@ -93,17 +93,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="166.83206"
-     inkscape:cy="262.34094"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="111.13834"
+     inkscape:cy="243.27761"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="cm"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1136"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1" />
@@ -139,16 +139,16 @@
        y="978.62109" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="54.479191"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="102.38934"
        y="1035.0046"
        id="text6036"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan6038"
-         x="54.479191"
+         x="102.38934"
          y="1035.0046"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:50.00000763px;font-family:Impact;-inkscape-font-specification:'Impact Condensed';fill:#000000;fill-opacity:1">info.freifunk-myk.de</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:50.00000763px;font-family:Impact;-inkscape-font-specification:'Impact Condensed';fill:#ffffff;fill-opacity:1;">freifunk-myk.de</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -179,7 +179,7 @@
          sodipodi:role="line"
          x="16.876724"
          y="650.86853"
-         id="tspan6076">Diensten ermöglicht. </tspan></text>
+         id="tspan6076">Diensten (z.B. Bürgerradio) ermöglicht. </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -275,7 +275,7 @@
          y="968.3418"
          x="18.182747"
          id="tspan6129"
-         sodipodi:role="line">nicht zögern, informiere dich jetzt:</tspan></text>
+         sodipodi:role="line">nicht zögern, informiere Dich jetzt:</tspan></text>
     <rect
        y="526.47821"
        x="0.071790166"
