@@ -123,17 +123,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="140.48975"
-     inkscape:cy="286.27858"
+     inkscape:zoom="1.4"
+     inkscape:cx="278.55566"
+     inkscape:cy="270.28015"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer3"
      showgrid="false"
      units="cm"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="704"
+     inkscape:window-width="1920"
+     inkscape:window-height="1136"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1">
@@ -175,7 +175,8 @@
        preserveAspectRatio="none"
        height="526.80707"
        width="526.80707"
-       style="opacity:0.81800022;filter:url(#filter4355)" />
+       style="opacity:0.777;filter:url(#filter4355)"
+       transform="matrix(1.0066205,0,0,1.0066205,-1.384015,0.0601683)" />
     <text
        sodipodi:linespacing="125%"
        id="text4393"
@@ -232,6 +233,17 @@
      inkscape:label="Logo"
      style="display:inline">
     <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.25px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="366.42856"
+       y="469.40942"
+       id="text3402"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3404"
+         x="366.42856"
+         y="469.40942" /></text>
+    <text
        sodipodi:linespacing="99.000001%"
        id="text4236"
        y="457.98083"
@@ -276,19 +288,8 @@
          y="491.83994"
          id="tspan4226"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.35045815px;line-height:99.00000095%;font-family:Waree;-inkscape-font-specification:Waree;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1">wo es funkt.</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:16.25px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="366.42856"
-       y="469.40942"
-       id="text3402"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3404"
-         x="366.42856"
-         y="469.40942" /></text>
     <g
-       id="g4237">
+       id="g4308">
       <circle
          r="183.95905"
          cy="259.89038"
@@ -349,12 +350,12 @@
          id="circle4379" />
       <polygon
          style="fill:#ffcc33;fill-opacity:1"
-         points="31,44 26,44 30,48 22,48 22,52 30,52 26,56 31,56 37,50 "
-         transform="matrix(4.9772565,0,0,4.7177471,-8.7563883,-25.9772)"
+         points="31,56 37,50 31,44 26,44 30,48 22,48 22,52 30,52 26,56 "
+         transform="matrix(4.9772565,0,0,4.7177471,-2.7563883,-25.9772)"
          id="polygon4381" />
       <polygon
          style="fill:#ffcc33;fill-opacity:1"
-         points="88,47 75,47 81,41 73,41 64,50 73,59 81,59 75,53 88,53 "
+         points="64,50 73,59 81,59 75,53 88,53 88,47 75,47 81,41 73,41 "
          transform="matrix(3.4172873,0,0,3.5366841,87.246994,140.79069)"
          id="polygon4383" />
       <text
